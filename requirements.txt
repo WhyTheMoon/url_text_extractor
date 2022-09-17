@@ -1,4 +1,3 @@
-#####
-  bs4 == 0.01
-  mechanicalsoup == 1.1.0
-  
+##### Requirements with Version Specifiers #####
+  - bs4 == 0.01
+  - mechanicalsoup == 1.1.0
